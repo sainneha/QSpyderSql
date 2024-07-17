@@ -1,0 +1,2 @@
+# QSpyderSql
+oracle database
